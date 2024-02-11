@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7aad91-3bed-4943-9609-29420af4d268" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Easy/27. Remove Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/27. Remove Element.py" afterDir="false" />
+    <list default="true" id="6c7aad91-3bed-4943-9609-29420af4d268" name="Changes" comment="27">
+      <change afterPath="$PROJECT_DIR$/Easy/1. Two Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/13. Roman to Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/9. Palindrome Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1707647770224</updated>
     </task>
+    <task id="LOCAL-00001" summary="27">
+      <created>1707648058306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707648058306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="27" />
+    <option name="LAST_COMMIT_MESSAGE" value="27" />
   </component>
 </project>
