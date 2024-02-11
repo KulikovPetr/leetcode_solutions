@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7aad91-3bed-4943-9609-29420af4d268" name="Changes" comment="27">
-      <change afterPath="$PROJECT_DIR$/Easy/1. Two Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/13. Roman to Integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/9. Palindrome Number.py" afterDir="false" />
+    <list default="true" id="6c7aad91-3bed-4943-9609-29420af4d268" name="Changes" comment="1, 9, 13">
+      <change afterPath="$PROJECT_DIR$/Easy/14. Longest Common Prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/20. Valid Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/451. Sort Characters By Frequency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707648058306</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1, 9, 13">
+      <created>1707648355971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707648355971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="27" />
-    <option name="LAST_COMMIT_MESSAGE" value="27" />
+    <MESSAGE value="1, 9, 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="1, 9, 13" />
   </component>
 </project>
