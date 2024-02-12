@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c7aad91-3bed-4943-9609-29420af4d268" name="Changes" comment="35">
-      <change afterPath="$PROJECT_DIR$/Easy/58. Length of Last Word.py" afterDir="false" />
-    </list>
+    <list default="true" id="6c7aad91-3bed-4943-9609-29420af4d268" name="Changes" comment="58" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707651072281</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="58">
+      <created>1707651787659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707651787659</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +103,7 @@
     <MESSAGE value="14, 20, 451" />
     <MESSAGE value="28, добавил ссылку на задачу в комментарии" />
     <MESSAGE value="35" />
-    <option name="LAST_COMMIT_MESSAGE" value="35" />
+    <MESSAGE value="58" />
+    <option name="LAST_COMMIT_MESSAGE" value="58" />
   </component>
 </project>
